@@ -1,9 +1,9 @@
 # Kaggle: Social Action Recognition in Mice
 
-**Group:** VANGA
-**Competition Year:** 2025
-**Course:** Machine Learning - 2526I_INT3405E_1
-**Members:**
+* **Group:** VANGA
+* **Competition Year:** 2025
+* **Course:** Machine Learning - 2526I_INT3405E_1
+* **Members:**
 
 | Student ID      | Name                 | Email              |
 | ----------------| ---------------------| -------------------|
