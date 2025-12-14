@@ -5,10 +5,10 @@
 * **Course:** Machine Learning - 2526I_INT3405E_1
 * **Members:**
 
-| Student ID      | Name                 | Email              |
-| ----------------| ---------------------| -------------------|
-| 23021647        | Hoang Thi Thanh Nga  | 23021647@gmail.com |
-| 23021747        | Vu Nhat Tuong Van    | 23021747@gmail.com |
+| Student ID      | Name                 | Email               |
+| ----------------| ---------------------| --------------------|
+| 23021647        | Hoang Thi Thanh Nga  | 23021647@vnu.edu.vn |
+| 23021747        | Vu Nhat Tuong Van    | 23021747@vnu.edu.vn |
 
 This repository contains all **codes and Jupyter notebooks** developed during participation in the **Kaggle Social Action Recognition in Mice** competition. The notebooks are organized by submission version and reflect the iterative modeling and feature-engineering process.
 
@@ -223,4 +223,5 @@ Each notebook represents a distinct iteration. Below summarizes **key updates co
 
 * This repository is intended for **educational and reproducibility purposes**.
 * Notebooks reflect an incremental research workflow rather than a single clean pipeline.
+
 * Results may differ if re-run due to randomness and environment differences.
